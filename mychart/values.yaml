@@ -1,0 +1,5 @@
+configMaps:
+  - data:
+      cache_size: 4GB
+      cache_type: none
+    name: cache-config
